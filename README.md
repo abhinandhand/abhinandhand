@@ -1,4 +1,4 @@
-# Hi there, I'm Abhinandhand 👋
+# Hi there, I'm Abhi 👋
 
 - 🔭 I’m currently working on fine tuning my portfolio website and side project to revolutanize dating
 - 🌱 I’m currently learning Next.js and Data Structures
@@ -6,7 +6,10 @@
 - 🤔 I’m looking for help with Native geolocation tracking
 - 💬 Ask me about JavaScript, Vue, Angular, React
 - 📫 How to reach me: abhinandhan.d@gmail.com
-- ⚡ Fun fact: I like playing cricket more than I like writing code.
+- 🌐 Check out my [Website](https://abhicodestudio.com?utm_source=github)
+- ⚡ Fun fact: Playing cricket is my favorite activity, even more than coding, dreaming, or traveling with my wife.
+
+<br>
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -20,6 +23,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+<br>
 
 ### Visitor Count 
 ![Visitor Count](https://profile-counter.glitch.me/{abhinandhand}/count.svg)
