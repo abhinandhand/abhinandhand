@@ -1,7 +1,7 @@
 # Hi there, I'm Abhi 👋
 
 - 🔭 I’m currently working on fine tuning my portfolio website and side project to revolutanize dating
-- 🌱 I’m currently learning Next.js and Data Structures
+- 🌱 I’m currently learning Next.js and Server Side Rendering
 - 👯 I’m looking to collaborate on fr open source projects
 - 🤔 I’m looking for help with Native geolocation tracking
 - 💬 Ask me about JavaScript, Vue, Angular, React
